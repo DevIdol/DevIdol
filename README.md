@@ -4,7 +4,7 @@
 - 💬 Ask me about: Single Or Relationship 😁
 - 📫 How to reach me: Facebook - https://www.facebook.com/profile.php?id=100026052723303 ,Twitter - @johst21.
 
-- 🌱 I’m learning:👇👇👇
+- 🌱 I’m learning:  👇 
 
  |  Front End  |  Back End       |      
  | ----------- | --------------- |     
