@@ -6,15 +6,15 @@
 
 - 🌱 I’m learning:👇👇👇
 
-       |  Front End  |  Back End       |
-       | ----------- | --------------- |
-       | HTML5       | PHP/MYSQL       |
-       | CSS3        | Laravel         |
-       | Bootstrap4  | NoteJs/MongoDB  |
-       | JQuery      | Python3         |
-       | JavaScript  | Firebase        |
-       | React       |                 |
-       | Flutter     |                 |
+ |  Front End  |  Back End       |      
+ | ----------- | --------------- |     
+ | HTML5       | PHP/MYSQL       |
+ | CSS3        | Laravel         |
+ | Bootstrap4  | NoteJs/MongoDB  |
+ | JQuery      | Python3         |
+ | JavaScript  | Firebase        |
+ | React       |                 |
+ | Flutter     |                 |
 
 <!--- 
 - 😄 Pronouns: JOHST 
