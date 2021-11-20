@@ -10,7 +10,7 @@
  | ----------- | --------------- |     
  | HTML5       | PHP/MYSQL       |
  | CSS3        | Laravel         |
- | Bootstrap4/5| NoteJs/MongoDB  |
+ | Bootstrap4/5| NoteJS/MongoDB  |
  | JQuery      | Python3         |
  | JavaScript  | Firebase        |
  | React       |                 |
