@@ -1,6 +1,6 @@
 ### Hello... I am Ha Shing Thang 👋
 
-- 🔭 I’m currently a student of Computer Science(Final Year).
+- 👨‍🎓 I’m currently a student of Computer Science(Final Year).
 - 💬 Ask me about: Single Or Relationship 😂😂
 - 📫 How to reach me: Facebook - https://www.facebook.com/profile.php?id=100026052723303 ,Twitter - @johst21 and Instagram - jostthang...
 - 😄 Pronouns: JOHST 😅😅
