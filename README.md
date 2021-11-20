@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I am a student of Computer Science(Final Year).
 - 💬 Ask me about: Single Or Relationship 😁
-- 📫 How to reach me: Facebook - https://www.facebook.com/profile.php?id=100026052723303.
+- 📫 How to reach me: Facebook - https://www.facebook.com/profile.php?id=100026052723303
 
 - 🌱 I’m learning:  👇 
 
