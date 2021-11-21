@@ -14,7 +14,7 @@
  | JQuery      | Python3         |
  | JavaScript  | Firebase        |
  | React       |                 |
- | Flutter     |                 |
+ | Flutter/Dart|                 |
 
 <!--- 
 - 😄 Pronouns: JOHST 
