@@ -14,6 +14,7 @@
  | JQuery      | Python3         |
  | JavaScript  | Firebase        |
  | React       |                 |
+ | React Native|                 |
  | Flutter/Dart|                 |
 
 <!--- 
