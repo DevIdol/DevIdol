@@ -12,7 +12,7 @@
  | CSS3        | Laravel         |
  | Bootstrap4/5| NodeJS/MongoDB  |
  | JQuery      | Python3         |
- | JavaScript  | Firebase        |
+ | JavaScript  |                 |
  | React       |                 |
  | React Native|                 |
  | Flutter/Dart|                 |
