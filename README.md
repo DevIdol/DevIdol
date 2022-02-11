@@ -11,8 +11,8 @@
  | HTML5       | PHP/MYSQL       |
  | CSS3        | Laravel         |
  | Bootstrap4/5| NodeJS/MongoDB  |
- | JQuery      | Python3         |
- | JavaScript  |                 |
+ | JQuery      | ASP.NET Core    |
+ | JavaScript  | Python          |
  | React       |                 |
  | React Native|                 |
  | Flutter/Dart|                 |
