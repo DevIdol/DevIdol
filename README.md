@@ -1,4 +1,4 @@
-### Hello... I am Ha Shing Thang 👋
+### Hey There...👋👋 I am Ha Shing Thang
 
 - 👨‍🎓 I am a student of Computer Science (final year) at UCSK.
 - 💬 Ask me about: Single Or Relationship 😁
